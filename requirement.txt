@@ -1,0 +1,6 @@
+
+OpenCV-python
+MediaPipe
+PyAutoGUI
+pynput
+NumPy
