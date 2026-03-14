@@ -15,6 +15,10 @@ The system detects hand gestures in real time and converts them into mouse actio
 - Screenshot capture
 - Cursor freeze option
 
+## Demo
+
+![Hand Gesture Mouse Demo](demo.png)
+
 ---
 
 ## Technologies Used
